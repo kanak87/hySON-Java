@@ -42,8 +42,9 @@ public class Test7Class
 
 ## 남은 작업
 * Inner class는 생성되지 않음(Outer class의 instance 필요)
-* Generic Type은 ArrayList만 지원(List, HashMap 등 지원 예정)
+* Generic Type은 ArrayList만 지원(List, HashMap 등 지원)
 * "key":3.0 을 int field에 저장하면 에러, 타입 변환 기능
+* Value String이 "2016-11-27 00:00:00"이고 class field가 DateTime일 때
 
 ## License
 ```
